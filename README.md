@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Recette : Gâteau au Chocolat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f8f8f8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            background: #fff;
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 24px 32px;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #4b2e08;
+        }
+        h2 {
+            color: #784421;
+            margin-bottom: 8px;
+        }
+        ul, ol {
+            margin-left: 24px;
+        }
+        .etapes {
+            margin-top: 16px;
+        }
+        .credit {
+            font-size: 0.9em;
+            color: #888;
+            text-align: right;
+            margin-top: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gâteau au Chocolat</h1>
+        <h2>Ingrédients</h2>
+        <ul>
+            <li>200g de chocolat noir</li>
+            <li>100g de beurre</li>
+            <li>120g de sucre</li>
+            <li>3 œufs</li>
+            <li>80g de farine</li>
+            <li>1 sachet de levure chimique</li>
+            <li>1 pincée de sel</li>
+        </ul>
+        <div class="etapes">
+            <h2>Préparation</h2>
+            <ol>
+                <li>Préchauffez le four à 180°C (thermostat 6).</li>
+                <li>Faites fondre le chocolat et le beurre au bain-marie.</li>
+                <li>Dans un saladier, mélangez les œufs et le sucre jusqu'à ce que le mélange blanchisse.</li>
+                <li>Ajoutez le chocolat fondu, puis la farine, la levure et la pincée de sel. Mélangez bien.</li>
+                <li>Versez la pâte dans un moule beurré.</li>
+                <li>Enfournez 20 à 25 minutes. Laissez refroidir avant de démouler.</li>
+            </ol>
+        </div>
+        <div class="credit">
+            Recette simple proposée par Copilot
+        </div>
+    </div>
+</body>
+</html>
+# recette-test
